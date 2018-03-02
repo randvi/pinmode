@@ -1,1 +1,1 @@
-# pinmode - source code wwww.pinmode.by
+# pinmode - source code www.pinmode.by
